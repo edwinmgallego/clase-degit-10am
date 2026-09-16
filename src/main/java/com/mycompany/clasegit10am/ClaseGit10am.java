@@ -11,8 +11,7 @@ package com.mycompany.clasegit10am;
 public class ClaseGit10am {
 
     public static void main(String[] args) {
-        
-        System.out.println("Hola, soy Samuel Lopez");      
+        System.out.println("Hola, soy Samuel Lopez");
     }
          
 }
