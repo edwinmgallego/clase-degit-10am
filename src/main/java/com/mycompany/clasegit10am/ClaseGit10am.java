@@ -22,7 +22,8 @@ public class ClaseGit10am {
         System.out.println("El numero es mayor a 5!");}
         else{
         System.out.println("El numero es menor que 5");}
-             
+        
+        System.out.println("Santiago Sepulveda Perea");
     }
          
 }
