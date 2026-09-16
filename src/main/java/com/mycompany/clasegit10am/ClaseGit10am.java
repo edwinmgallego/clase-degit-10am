@@ -14,5 +14,6 @@ public class ClaseGit10am {
         System.out.println("Hello World!");
         System.out.println("Hello World! #2");
         System.out.println("Samuel Diaz Herrera");
+        System.out.println("Samuel Diaz Herrera#2");
     }
 }
