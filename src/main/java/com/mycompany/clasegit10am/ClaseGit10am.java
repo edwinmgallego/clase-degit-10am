@@ -15,5 +15,15 @@ public class ClaseGit10am {
         System.out.println("Hello World! #2");
         System.out.println("Santiago Sepulveda Perea");
         System.out.println("Santiago Sepulveda Perea #2");
+        
+        System.out.println("Hola, soy Samuel Lopez");
+        int numero = 6;
+        if (numero > 5){
+        System.out.println("El numero es mayor a 5!");}
+        else{
+        System.out.println("El numero es menor que 5");}
+             
     }
+         
 }
+
