@@ -14,6 +14,8 @@ public class ClaseGit10am {
         System.out.println("Hello World!");
         System.out.println("Hello World! #2");
         System.out.println("Hello World! Jheffrey Urbano en el proyecto del profesor emgallego");
+        System.out.println("cristian Ramirez! #2");
+        System.out.println("cristian Ramirez! #3");
         System.out.println("Samuel Diaz Herrera");
     }
 }
