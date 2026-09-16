@@ -23,7 +23,7 @@ public class ClaseGit10am {
         else{
         System.out.println("El numero es menor que 5");}
         
-        System.out.println("Santiago Sepulveda Perea");
+        System.out.println("Jheffrey Urbano");
     }
          
 }
